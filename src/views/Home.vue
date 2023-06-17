@@ -2,7 +2,7 @@
   <!-- This view should only show the user what page they are on -->
   <div class="home">
     <h1>Home</h1>
-    <p>This is the home page. It doesn't do much yet!</p>
+    <p>Hi, This is Amimul</p>
     <p v-if="isAdmin">You are signed in as admin.</p>
   </div>
 </template>
